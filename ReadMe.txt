@@ -1,1 +1,4 @@
 ﻿https://github.com/okovtun/PD_212_NP.git
+
+TODO:
+Теория.
